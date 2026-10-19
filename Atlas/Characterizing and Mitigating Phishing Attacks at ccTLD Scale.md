@@ -1,0 +1,62 @@
+**Tagy:** #
+**Link:** [[Characterizing and Mitigating Phishing Attacks at ccTLD Scale.pdf]]
+
+---
+
+## Shrnutí
+- Moura et al., ACM CCS 2024 (SIDN Labs, DNS Belgium, .IE Registry)
+- Studie řeší jen phishing, slovo typosquatting v ní nepadne
+	- Neměří podobnost názvu domény se značkou
+	- Domény dělí jen podle stáří
+		- nové (< 7 dní) = maliciously registered
+		- staré = compromised
+	- Pro diplomku hlavně jako kontext, jakou část phishingu může detekce typosquattingu vůbec zachytit
+- Data z registrů .nl, .ie a .be
+	- 28 754 phishingových SLD
+		- SLD = doména druhé úrovně, např. ing-overeni.nl
+	- Až 10 let dat (.nl 2013–2023, .ie a .be 2019–2023)
+	- Ground truth je blocklist Netcraft (komerční, dataset není veřejný)
+- Dva typy phishingových domén
+	- Maliciously registered (~20 %)
+		- Útočník si doménu zaregistruje sám
+		- Může si vybrat přesvědčivý název
+			- citibank-validate-card.com
+				- spíš combosquatting než překlep
+		- Sem patří lookalike domény, tedy i typosquatting
+			- kolik z nich je typosquatting, studie nezjišťuje
+	- Compromised (~80 %)
+		- Napadený legitimní web, typicky zranitelný WordPress nebo Joomla
+		- joesbbqhouston.net hostující phishing na banku
+		- Název domény se značce vůbec nepodobá
+- Kdo je cílem
+	- Místní firmy (banky, pošta, Marktplaats) se napodobují novými doménami pod vlastní ccTLD
+		- Medián stáří 1–2,5 dne
+		- Názvy domén jsou v místním jazyce (holandská slova)
+		- Útočník zneužívá důvěru lidí v národní doménu
+			- pro mě: útok na českou banku pravděpodobně přes .cz doménu s českými slovy
+	- Globální značky (Microsoft, PayPal, Netflix) přes kompromitované domény
+		- Medián stáří přes 5 let
+		- 139 globálních značek (11 % firem) = 58,6 % všech phishingových domén
+- Stáří domény jako příznak
+	- Literatura běžně bere 30 nebo 90 dní jako hranici pro "novou" doménu
+	- Mezi 7 a 90 dny autoři neviděli velký rozdíl, proto berou 7 dní
+	- Hodí se pro práh WHOIS stáří v mém skóre
+	- Nové škodlivé domény jsou na jedno použití
+		- 96,5 % (.nl) a 89,9 % (.be) smazáno nebo neobnoveno
+- Omezená registrace (.ie vyžaduje irské ID nebo firmu)
+	- Skoro eliminuje nově registrované phishingové domény
+	- Jednou obejito falešnými doklady (120 domén)
+	- Na kompromitované domény nemá vliv
+- Limity detekce typosquattingu a WHOIS
+	- Kompromitované domény mají starou, důvěryhodnou registraci a nepodobný název
+		- "we cannot use registration or certificate features in the process, such as domain name or hosting infrastructure"
+	- Detekce zaměřená na nové domény pokryje méně než 20 % phishingu
+	- Phishing je často v subdoméně nebo podadresáři
+		- jen 36 z 234 nových domén mělo phish přímo na úvodní stránce
+		- pro mě: analyzovat celou URL, nejen doménu
+	- Přesměrování na jinou TLD (.nl -> .click) přes HTTP redirect
+	- WHOIS u ccTLD je kvůli GDPR neúplný
+- Vazba na Shielding Brands
+	- Podobná doména nemusí být škodlivá (defenzivní registrace)
+	- Nepodobná doména nemusí být bezpečná (kompromitovaný web)
+	- Obojí do diskuse o falešné pozitivitě (bod 5 zadání)
