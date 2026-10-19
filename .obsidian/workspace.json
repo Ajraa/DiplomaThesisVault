@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f837e7372eeff7bf",
+        "id": "697ae21c28c622b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ce16193ee579bb93",
+            "id": "85d5a27918b931cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/DomainLynx Leveraging Large Language Models.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DomainLynx Leveraging Large Language Models"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9f632340fe74cb1f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72be2ef462ba1713",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Studie/DomainLynx Leveraging Large Language Models.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DomainLynx Leveraging Large Language Models"
+              "title": "Nová karta"
             }
           }
         ]
@@ -160,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Atlas/DomainLynx Leveraging Large Language Models.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Přehled"
             }
           },
           {
@@ -183,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 1086
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce16193ee579bb93",
+  "active": "85d5a27918b931cd",
   "lastOpenFiles": [
     "Studie/DomainLynx Leveraging Large Language Models.pdf",
+    "Atlas/Rešerše Evolving threats (Claude).md",
     "Atlas/DomainLynx Leveraging Large Language Models.md",
+    "Atlas/Sources/Pasted image 20261019131820.png",
+    "Atlas/Sources/Pasted image 20261019131549.png",
+    "Atlas/Sources/Pasted image 20261019131542.png",
     "Atlas/Bokem",
     "Atlas/Sources/Pasted image 20261018161154.png",
     "Atlas/Sources/Pasted image 20261017194834.png",
@@ -219,13 +202,10 @@
     "Studie/Shielding_Brands_An_In-Depth_Analysis_of_Defensive_Domain_Registration_Practices_Against_Cyber-Squatting.pdf",
     "Studie/Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.pdf",
     "Atlas/Sources/Pasted image 20261012232048.png",
-    "Atlas/Sources/Pasted image 20261012231911.png",
     "Atlas/Bokem/Possible tools.md",
     "Studie/An effective approach to typosquatting detection.pdf",
     "Atlas/Bokem/Typosquatting přístupy.md",
-    "Atlas/Sources/Pasted image 20261012203334.png",
     "Templates/Studie.md",
-    "Atlas/Sources/Pasted image 20261012175323.png",
     "Vítejte.md",
     "Atlas/POU/Penetration testing/Black-box, white-box a grey-box.md",
     "Atlas/POU/Penetration testing/NIST SSDF.md",
@@ -243,7 +223,6 @@
     "Atlas/POU/AI/Rozdělte oblasti AI dle domény aplikace (NLP, počítačové vidění, generativní AI, robotika a autonomní systémy).md",
     "Atlas/Adversarial attack.md",
     "Atlas/Phishing.md",
-    "Atlas/POU/AI/Co jsou tzv. 'dark LLM' nástroje jako WormGPT, FraudGPT, WolfGPT nebo XXXGPT.md",
     "Bez názvu.canvas"
   ]
 }
