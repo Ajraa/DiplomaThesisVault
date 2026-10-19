@@ -1,4 +1,4 @@
-**Tagy:** #
+**Tagy:** #phishing
 **Link:** [[Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.pdf]]
 
 ---
