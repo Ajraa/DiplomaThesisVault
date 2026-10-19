@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "486a8e1d1d062b7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f837e7372eeff7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce16193ee579bb93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/DomainLynx Leveraging Large Language Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DomainLynx Leveraging Large Language Models"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f632340fe74cb1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72be2ef462ba1713",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Studie/DomainLynx Leveraging Large Language Models.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DomainLynx Leveraging Large Language Models"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "681fedd226662396",
+    "type": "split",
+    "children": [
+      {
+        "id": "58f486faa14e2140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7b46765271845c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Průzkumník souborů"
+            }
+          },
+          {
+            "id": "334956d7bfa33dc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#AI",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Hledat"
+            }
+          },
+          {
+            "id": "8c1167c97f791564",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Záložky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19c68b675a75063b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3172cbdcd4c300b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b608fd8a0b34386",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Zpětné odkazy"
+            }
+          },
+          {
+            "id": "59ae72d487304165",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Odchozí odkazy"
+            }
+          },
+          {
+            "id": "4a22b314f39c9a93",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3e5a269c615895c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cac75bd57e75c9d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Vytvořit nový canvas": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "bases:Vytvořit novou základnu": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ce16193ee579bb93",
+  "lastOpenFiles": [
+    "Studie/DomainLynx Leveraging Large Language Models.pdf",
+    "Atlas/DomainLynx Leveraging Large Language Models.md",
+    "Atlas/Bokem",
+    "Atlas/Sources/Pasted image 20261018161154.png",
+    "Atlas/Sources/Pasted image 20261017194834.png",
+    "Atlas/An effective approach to typosquatting detection.md",
+    "Studie/Shielding Brands An In-depth Analysis.pdf",
+    "Studie/possible studie/On cloaking behaviors of malicious websites.pdf",
+    "Studie/possible studie",
+    "Studie/Nová složka",
+    "Atlas/Shielding Brands An In-depth Analysis.md",
+    "Atlas/Sources/Pasted image 20261014201937.png",
+    "Atlas/Sources/Pasted image 20261014201822.png",
+    "Atlas/Sources/Pasted image 20261014201120.png",
+    "Atlas/Sources/Pasted image 20261014194039.png",
+    "Atlas/Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.md",
+    "Studie/Shielding Brands An In-depth Analysis of.pdf",
+    "Studie/Shielding_Brands_An_In-Depth_Analysis_of_Defensive_Domain_Registration_Practices_Against_Cyber-Squatting.pdf",
+    "Studie/Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.pdf",
+    "Atlas/Sources/Pasted image 20261012232048.png",
+    "Atlas/Sources/Pasted image 20261012231911.png",
+    "Atlas/Bokem/Possible tools.md",
+    "Studie/An effective approach to typosquatting detection.pdf",
+    "Atlas/Bokem/Typosquatting přístupy.md",
+    "Atlas/Sources/Pasted image 20261012203334.png",
+    "Templates/Studie.md",
+    "Atlas/Sources/Pasted image 20261012175323.png",
+    "Vítejte.md",
+    "Atlas/POU/Penetration testing/Black-box, white-box a grey-box.md",
+    "Atlas/POU/Penetration testing/NIST SSDF.md",
+    "Atlas/POU/Penetration testing/Fáze testování.md",
+    "Atlas/POU/Penetration testing/Co je penetrační testování.md",
+    "Atlas/POU/Risk Assement/Vysvětlete pojmy likelihood (pravděpodobnost) a impact (dopad) v kontextu rizikové  analýzy.md",
+    "Atlas/POU/Risk Assement/Risk assesment.md",
+    "Atlas/POU/Risk Assement/Jakým způsobem může organizace využít výsledky rizikové analýzy pro rozhodování o alokaci zdrojů na kybernetickou bezpečnost.md",
+    "Atlas/POU/Penetration testing.md",
+    "Atlas/POU/Risk Assement/Jaký je vztah mezi rizikem, hrozbou (threat) a zranitelností (vulnerability).md",
+    "Atlas/POU/Risk Assement/Postup provedení kybernetické rizikové analýzy.md",
+    "Atlas/Zvládání rizik.md",
+    "Atlas/POU/AI/Jak lze velké jazykové modely (LLM) zneužít v kontextu kybernetické bezpečnosti.md",
+    "Atlas/POU/AI/Vysvětlete rozdíl mezi supervizovaným učením, nesupervizovaným učením a reinforcement learningem.md",
+    "Atlas/POU/AI/Rozdělte oblasti AI dle domény aplikace (NLP, počítačové vidění, generativní AI, robotika a autonomní systémy).md",
+    "Atlas/Adversarial attack.md",
+    "Atlas/Phishing.md",
+    "Atlas/POU/AI/Co jsou tzv. 'dark LLM' nástroje jako WormGPT, FraudGPT, WolfGPT nebo XXXGPT.md",
+    "Bez názvu.canvas"
+  ]
+}

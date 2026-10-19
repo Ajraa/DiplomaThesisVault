@@ -1,0 +1,6 @@
+- YATT - Yet Another Typosquatting tool
+	- 1. mód používá pouze informace ze statických files
+	- PD používá DNS a WHOIS
+	- PDC používá crawler
+- [Top 1000 Websites By Ranking Keywords – DataForSEO](https://dataforseo.com/free-seo-stats/top-1000-websites) 
+	- list nejnavštěvovanějších stránek
