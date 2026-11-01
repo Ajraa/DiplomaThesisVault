@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Shielding Brands An In-depth Analysis.md",
+                "file": "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shielding Brands An In-depth Analysis"
+              "title": "Examining Newly Registered Phishing Domains at Scale"
             }
           }
         ]
       },
       {
-        "id": "793cca63807794bc",
+        "id": "fbc9c2ded6fc946d",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1715316ef6a4b5",
+            "id": "1a62acee29ccddbd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Studie/From WHOIS to WHOWAS.pdf"
+                "file": "Studie/possible studie/Examining Newly Registered Phishing Domains at Scale.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "From WHOIS to WHOWAS"
+              "title": "Examining Newly Registered Phishing Domains at Scale"
             }
           }
         ]
@@ -199,35 +199,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7b46765271845c7",
+  "active": "654ba705d9bf710c",
   "lastOpenFiles": [
+    "Atlas/Sources/Pasted image 20261101153712.png",
+    "Atlas/Sources/Pasted image 20261101153318.png",
+    "Atlas/Sources/Pasted image 20261101151810.png",
+    "Atlas/Sources/Pasted image 20261101151453.png",
+    "Studie/possible studie/Examining Newly Registered Phishing Domains at Scale.pdf",
+    "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
+    "Atlas/Sources/Pasted image 20261101145714.png",
+    "Atlas/Sources/Pasted image 20261022001957.png",
+    "Atlas/Sources/Pasted image 20261022001947.png",
     "Atlas/From WHOIS to WHOWAS, A Large-Scale Measurement Study of Domain Registration Privacy under the GDPR.md",
-    "Atlas/Sources/Pasted image 20261019162435.png",
-    "Atlas/Sources/Pasted image 20261019162411.png",
-    "Studie/From WHOIS to WHOWAS.pdf",
-    "Atlas/DomainLynx Leveraging Large Language Models.md",
     "Atlas/An effective approach to typosquatting detection.md",
+    "Atlas/DomainLynx Leveraging Large Language Models.md",
     "Atlas/Characterizing and Mitigating Phishing Attacks at ccTLD Scale.md",
     "Atlas/Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.md",
     "Atlas/Shielding Brands An In-depth Analysis.md",
+    "Atlas/Sources/Pasted image 20261022001652.png",
+    "Atlas/Sources/Pasted image 20261022001648.png",
+    "Atlas/Sources/Pasted image 20261022001643.png",
+    "Studie/Examining Newly Registered Phishing Domains at Scale.pdf",
+    "Atlas/Bez názvu",
+    "Studie/possible studie/On cloaking behaviors of malicious websites.pdf",
+    "Atlas/Sources/Pasted image 20261019162435.png",
+    "Studie/From WHOIS to WHOWAS.pdf",
     "Atlas/Bokem/Rešerše Evolving threats (Claude).md",
     "Studie/Characterizing and Mitigating Phishing Attacks at ccTLD Scale.pdf",
     "Studie/DomainLynx Leveraging Large Language Models.pdf",
-    "Atlas/Sources/Pasted image 20261019131820.png",
-    "Atlas/Sources/Pasted image 20261019131549.png",
-    "Atlas/Sources/Pasted image 20261019131542.png",
     "Atlas/Bokem",
-    "Atlas/Sources/Pasted image 20261018161154.png",
-    "Atlas/Sources/Pasted image 20261017194834.png",
     "Studie/Shielding Brands An In-depth Analysis.pdf",
-    "Studie/possible studie/On cloaking behaviors of malicious websites.pdf",
     "Studie/possible studie",
-    "Studie/Nová složka",
-    "Atlas/Sources/Pasted image 20261014201937.png",
-    "Atlas/Sources/Pasted image 20261014201822.png",
-    "Atlas/Sources/Pasted image 20261014201120.png",
-    "Studie/Shielding Brands An In-depth Analysis of.pdf",
-    "Studie/Shielding_Brands_An_In-Depth_Analysis_of_Defensive_Domain_Registration_Practices_Against_Cyber-Squatting.pdf",
     "Atlas/Bokem/Possible tools.md",
     "Atlas/Bokem/Typosquatting přístupy.md",
     "Templates/Studie.md",
@@ -245,7 +247,6 @@
     "Atlas/Zvládání rizik.md",
     "Atlas/POU/AI/Jak lze velké jazykové modely (LLM) zneužít v kontextu kybernetické bezpečnosti.md",
     "Atlas/POU/AI/Vysvětlete rozdíl mezi supervizovaným učením, nesupervizovaným učením a reinforcement learningem.md",
-    "Atlas/POU/AI/Rozdělte oblasti AI dle domény aplikace (NLP, počítačové vidění, generativní AI, robotika a autonomní systémy).md",
     "Bez názvu.canvas"
   ]
 }
