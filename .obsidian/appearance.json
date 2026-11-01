@@ -4,5 +4,8 @@
   "monospaceFontFamily": "",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "git-panel"
+  ]
 }

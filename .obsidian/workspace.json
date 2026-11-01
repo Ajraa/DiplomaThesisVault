@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7e9a24ab12279cd",
+        "id": "a5f925d285b6c0c9",
         "type": "tabs",
         "children": [
           {
-            "id": "654ba705d9bf710c",
+            "id": "87a39f9df9e5d540",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
+                "file": "Atlas/On cloaking behaviors of malicious websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Examining Newly Registered Phishing Domains at Scale"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fbc9c2ded6fc946d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1a62acee29ccddbd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Studie/possible studie/Examining Newly Registered Phishing Domains at Scale.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Examining Newly Registered Phishing Domains at Scale"
+              "title": "On cloaking behaviors of malicious websites"
             }
           }
         ]
@@ -185,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1086
+    "width": 799
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,14 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "654ba705d9bf710c",
+  "active": "87a39f9df9e5d540",
   "lastOpenFiles": [
+    "Studie/On cloaking behaviors of malicious websites.pdf",
+    "Atlas/On cloaking behaviors of malicious websites.md",
+    "Studie/Examining Newly Registered Phishing Domains at Scale.pdf",
+    "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
     "Atlas/Sources/Pasted image 20261101153712.png",
     "Atlas/Sources/Pasted image 20261101153318.png",
     "Atlas/Sources/Pasted image 20261101151810.png",
     "Atlas/Sources/Pasted image 20261101151453.png",
-    "Studie/possible studie/Examining Newly Registered Phishing Domains at Scale.pdf",
-    "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
     "Atlas/Sources/Pasted image 20261101145714.png",
     "Atlas/Sources/Pasted image 20261022001957.png",
     "Atlas/Sources/Pasted image 20261022001947.png",
@@ -219,10 +203,7 @@
     "Atlas/Sources/Pasted image 20261022001652.png",
     "Atlas/Sources/Pasted image 20261022001648.png",
     "Atlas/Sources/Pasted image 20261022001643.png",
-    "Studie/Examining Newly Registered Phishing Domains at Scale.pdf",
     "Atlas/Bez názvu",
-    "Studie/possible studie/On cloaking behaviors of malicious websites.pdf",
-    "Atlas/Sources/Pasted image 20261019162435.png",
     "Studie/From WHOIS to WHOWAS.pdf",
     "Atlas/Bokem/Rešerše Evolving threats (Claude).md",
     "Studie/Characterizing and Mitigating Phishing Attacks at ccTLD Scale.pdf",
@@ -246,7 +227,6 @@
     "Atlas/POU/Risk Assement/Postup provedení kybernetické rizikové analýzy.md",
     "Atlas/Zvládání rizik.md",
     "Atlas/POU/AI/Jak lze velké jazykové modely (LLM) zneužít v kontextu kybernetické bezpečnosti.md",
-    "Atlas/POU/AI/Vysvětlete rozdíl mezi supervizovaným učením, nesupervizovaným učením a reinforcement learningem.md",
     "Bez názvu.canvas"
   ]
 }

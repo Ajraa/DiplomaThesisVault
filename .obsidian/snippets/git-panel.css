@@ -1,0 +1,10 @@
+/* Obsidian Git + AnuPpuccin full rainbow: the theme only colours nth-child(2+), so the
+   first section (Staged Changes) got no background and its inverted text was invisible. */
+.workspace-leaf-content[data-type="git-view"] .nav-files-container > .mod-root > .nav-folder:first-child {
+  --rainbow-folder-color: var(--ctp-green);
+}
+
+/* Status letters (M, D, ...) are hard-coded orange/red, unreadable on coloured sections. */
+.workspace-leaf-content[data-type="git-view"] .git-tools .type[data-type] {
+  color: inherit;
+}
