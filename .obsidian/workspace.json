@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/On cloaking behaviors of malicious websites.md",
+                "file": "Atlas/Every Second Counts Quantifying the Negative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "On cloaking behaviors of malicious websites"
+              "title": "Every Second Counts Quantifying the Negative"
             }
           }
         ]
@@ -183,8 +183,11 @@
   },
   "active": "87a39f9df9e5d540",
   "lastOpenFiles": [
-    "Studie/On cloaking behaviors of malicious websites.pdf",
     "Atlas/On cloaking behaviors of malicious websites.md",
+    "Atlas/Every Second Counts Quantifying the Negative.md",
+    "Studie/Every Second Counts Quantifying the Negative.pdf",
+    "Studie/Every_Second_Counts_Quantifying_the_Negative_Externalities_of_Cybercrime_via_Typosquatting.pdf",
+    "Studie/On cloaking behaviors of malicious websites.pdf",
     "Studie/Examining Newly Registered Phishing Domains at Scale.pdf",
     "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
     "Atlas/Sources/Pasted image 20261101153712.png",
@@ -210,7 +213,6 @@
     "Studie/DomainLynx Leveraging Large Language Models.pdf",
     "Atlas/Bokem",
     "Studie/Shielding Brands An In-depth Analysis.pdf",
-    "Studie/possible studie",
     "Atlas/Bokem/Possible tools.md",
     "Atlas/Bokem/Typosquatting přístupy.md",
     "Templates/Studie.md",
