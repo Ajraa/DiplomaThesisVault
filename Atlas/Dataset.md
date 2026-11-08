@@ -1,0 +1,60 @@
+- Certstream server
+	- real-time feed z CT Logů
+	- Dostanu z logu domain name a můžu náísledně sledovat, kam mě povede
+	- Alternativa za crt.sh
+- [Administrativně vyřazené domény](https://www.nic.cz/cs/domeny/pro-drzitele/pravidla-a-postupy/administrativne-vyrazene-domeny/)
+	- Seznam vyřazených domén od cz.nic
+	- Pravděpodobně nebude tak moc useful
+- [[An effective approach to typosquatting detection.pdf]] má opensource dataset
+	- [GitHub - cybers3clab/typosquatting_dataset · GitHub](https://github.com/cybers3clab/typosquatting_dataset)
+
+**Společné vzorce ze studií**
+- Seznam cílů
+	- Všechny 3 mají dataset přímo pro česko
+	- [Top 1000 Websites By Ranking Keywords – DataForSEO](https://dataforseo.com/free-seo-stats/top-1000-websites)
+		- z vyhledávání
+	- [crux-top-lists/data/country/cz at main · zakird/crux-top-lists · GitHub](https://github.com/zakird/crux-top-lists/tree/main/data/country/cz)
+		- Načtení stránek v chrome
+	- [Domain Rankings for the Czech Republic | Cloudflare Radar](https://radar.cloudflare.com/domains/cz)
+		- 1.1.1.1 DNS resolver
+- Generátor variant
+	- dnstwist se dá spustit lokálně
+		- combosquatting jen skrze vlastní dictionary
+- Filtr na existující domény
+	- dns rezoluce
+	- http dostupnost
+	- zone file
+- Obohacení
+	- WHOIS
+	- DNS
+	- crawl
+	- screenshoty
+
+
+**Certstream varianta**
+- **79,3 % phishingových webů má certifikát, tento přístup by tím pádem nenašel zhruba 20 % phishingových webů**
+	- [[Examining Newly Registered Phishing Domains at Scale]]
+- Odchytím nový log
+	- Všechna jména z certu
+- Zkontroluju vůči existujícímu listu
+	- combosquatting na základě slovníku
+	- DL vzdálenost
+		- Při velkém listu by se to nestíhalo, bylo by třeba najít způsob jak list předpočítat
+- Obohacení
+	- WHOIS
+	- RDAP
+		- WHOIS a RDAP nabízí podobná data ale v jiném formátu
+		- WHOIS se již nevyžaduje a oficiální zdroj je podle ICANN RDAP, třeba zkontrolovat
+	- DNS
+		- A
+		- NS
+		- MX
+	- crt.sh
+		- CT log archiv
+		- podobná data jako Certstream
+	- Samotná stránka
+		- obsah
+		- screenshoty
+		- redirecty
+- Test certstream v sources
+	- Když jsem to dal Claude Opus 5.5, tak tam našel typosquatting na Allianz PNB Life ve Filipínách a St. Luke's Medical Center, taktéž ve Filipínách, což by kontrola vůči existujícímu listu nezjistila

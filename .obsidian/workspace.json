@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Every Second Counts Quantifying the Negative.md",
+                "file": "Atlas/Dataset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Every Second Counts Quantifying the Negative"
+              "title": "Dataset"
             }
           }
         ]
@@ -183,13 +183,16 @@
   },
   "active": "87a39f9df9e5d540",
   "lastOpenFiles": [
-    "Atlas/On cloaking behaviors of malicious websites.md",
+    "Atlas/Sources/certstream_sample.jsonl",
+    "Atlas/An effective approach to typosquatting detection.md",
+    "Atlas/Dataset.md",
+    "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
     "Atlas/Every Second Counts Quantifying the Negative.md",
+    "Atlas/On cloaking behaviors of malicious websites.md",
     "Studie/Every Second Counts Quantifying the Negative.pdf",
     "Studie/Every_Second_Counts_Quantifying_the_Negative_Externalities_of_Cybercrime_via_Typosquatting.pdf",
     "Studie/On cloaking behaviors of malicious websites.pdf",
     "Studie/Examining Newly Registered Phishing Domains at Scale.pdf",
-    "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
     "Atlas/Sources/Pasted image 20261101153712.png",
     "Atlas/Sources/Pasted image 20261101153318.png",
     "Atlas/Sources/Pasted image 20261101151810.png",
@@ -198,7 +201,6 @@
     "Atlas/Sources/Pasted image 20261022001957.png",
     "Atlas/Sources/Pasted image 20261022001947.png",
     "Atlas/From WHOIS to WHOWAS, A Large-Scale Measurement Study of Domain Registration Privacy under the GDPR.md",
-    "Atlas/An effective approach to typosquatting detection.md",
     "Atlas/DomainLynx Leveraging Large Language Models.md",
     "Atlas/Characterizing and Mitigating Phishing Attacks at ccTLD Scale.md",
     "Atlas/Measuring and Analyzing Typosquatting Toward Fighting Abusive Domain Registrations.md",
@@ -227,8 +229,6 @@
     "Atlas/POU/Penetration testing.md",
     "Atlas/POU/Risk Assement/Jaký je vztah mezi rizikem, hrozbou (threat) a zranitelností (vulnerability).md",
     "Atlas/POU/Risk Assement/Postup provedení kybernetické rizikové analýzy.md",
-    "Atlas/Zvládání rizik.md",
-    "Atlas/POU/AI/Jak lze velké jazykové modely (LLM) zneužít v kontextu kybernetické bezpečnosti.md",
     "Bez názvu.canvas"
   ]
 }
