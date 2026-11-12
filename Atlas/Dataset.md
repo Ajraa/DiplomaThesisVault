@@ -48,13 +48,28 @@
 	- DNS
 		- A
 		- NS
-		- MX
 	- crt.sh
 		- CT log archiv
 		- podobná data jako Certstream
+		- Zbytečně moc pomalé
+		- Medián certifikátů a phishingových webů je 3, klidně se může přeskočit, stáří se může dostat z RDAP
 	- Samotná stránka
+		- Prva DNS a kontrola zda má A záznam
+		- několik useragentů
 		- obsah
-		- screenshoty
+		- screenshoty???
 		- redirecty
+		- kontroly
+			- platební kolonky a přihlašování
+			- porovnání pro cloaking
+			- stahování z jiných zdrojů
+				- zda nebere obrázky z původních webů
+				- je třeba udělat list odkud berou původní weby údaje
+			- Podobnost s původní stránkou
+				- Podle všeho by to měl umět dnstwist, mohl by umět něco extra, co není zřejmé
+			- Title
+				- 
+			- alerty a popupy
 - Test certstream v sources
 	- Když jsem to dal Claude Opus 5.5, tak tam našel typosquatting na Allianz PNB Life ve Filipínách a St. Luke's Medical Center, taktéž ve Filipínách, což by kontrola vůči existujícímu listu nezjistila
+		- To dokazuje užitečnost LLM pro tento účel
