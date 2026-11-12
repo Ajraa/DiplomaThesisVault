@@ -46,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Průzkumník souborů"
+              "title": "Files"
             }
           },
           {
@@ -171,21 +171,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Otevřít rychlé přepínání": false,
-      "graph:Otevřít graf": false,
-      "canvas:Vytvořit nový canvas": false,
-      "daily-notes:Otevřít dnešní poznámku": false,
-      "templates:Vložit šablonu": false,
-      "command-palette:Otevřít paletu příkazů": false,
-      "bases:Vytvořit novou základnu": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "87a39f9df9e5d540",
   "lastOpenFiles": [
-    "Atlas/Sources/certstream_sample.jsonl",
     "Atlas/An effective approach to typosquatting detection.md",
+    "Studie/An effective approach to typosquatting detection.pdf",
     "Atlas/Dataset.md",
+    "Atlas/Sources/certstream_sample.jsonl",
     "Atlas/Examining Newly Registered Phishing Domains at Scale.md",
     "Atlas/Every Second Counts Quantifying the Negative.md",
     "Atlas/On cloaking behaviors of malicious websites.md",
@@ -213,8 +214,6 @@
     "Atlas/Bokem/Rešerše Evolving threats (Claude).md",
     "Studie/Characterizing and Mitigating Phishing Attacks at ccTLD Scale.pdf",
     "Studie/DomainLynx Leveraging Large Language Models.pdf",
-    "Atlas/Bokem",
-    "Studie/Shielding Brands An In-depth Analysis.pdf",
     "Atlas/Bokem/Possible tools.md",
     "Atlas/Bokem/Typosquatting přístupy.md",
     "Templates/Studie.md",

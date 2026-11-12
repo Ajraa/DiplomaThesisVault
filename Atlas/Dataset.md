@@ -75,3 +75,6 @@
 - Test certstream v sources
 	- Když jsem to dal Claude Opus 5.5, tak tam našel typosquatting na Allianz PNB Life ve Filipínách a St. Luke's Medical Center, taktéž ve Filipínách, což by kontrola vůči existujícímu listu nezjistila
 		- To dokazuje užitečnost LLM pro tento účel
+
+- Experimenty na certstream i generaci
+- AI Radek Svoboda
