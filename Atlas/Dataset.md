@@ -7,6 +7,8 @@
 	- Pravděpodobně nebude tak moc useful
 - [[An effective approach to typosquatting detection.pdf]] má opensource dataset
 	- [GitHub - cybers3clab/typosquatting_dataset · GitHub](https://github.com/cybers3clab/typosquatting_dataset)
+	- Typo     n=5000: DNS 3976 (79.5%), HTTP odpověď 3595 (71.9%), 2xx 2842 (56.8%), přesměrování na cíl 129
+	- NotTypo  n=5000: DNS 4677 (93.5%), HTTP odpověď 4504 (90.1%), 2xx 3714 (74.3%), přesměrování na cíl 2
 
 **Společné vzorce ze studií**
 - Seznam cílů
